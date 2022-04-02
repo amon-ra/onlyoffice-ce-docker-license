@@ -119,6 +119,10 @@ services:
     …
 ```
 
+## References
+- https://help.nextcloud.com/t/onlyoffice-server-with-no-limits-2022/131741
+- https://help.nextcloud.com/t/onlyoffice-compiled-with-mobile-edit-back/79282/156
+- https://github.com/btactic/document-server-package/blob/btactic-documentation/README-BUILD-DEBIAN-PACKAGE-NO-LIMITS.md
 
 ## Thanks
 
